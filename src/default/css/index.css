@@ -1,0 +1,7 @@
+body{
+    background: white;
+}
+.tt{
+    background-image: url(./../images/receive.png);
+    font-size: 14px;
+}
